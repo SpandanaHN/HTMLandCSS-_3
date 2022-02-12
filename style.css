@@ -1,0 +1,40 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.container{
+    width:1200px;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-size: 50px;
+    font color: #000;
+}
+
+p{
+    font-size: 20px;
+}
+
+.ROW{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width:45%;
+    margin:auto;
+}
+
+.box1 .box1_1{
+    width:45%;
+    margin:auto;
+}
+
+.box1_1 img{
+    width:100%;
+    margin:auto;
+    display: inline;
+    padding: 40px 30px;
+}
